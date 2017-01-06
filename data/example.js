@@ -1,4 +1,4 @@
-[
+var exampleData = [
     {
         "product":"Example Project",
         "version":"1.1",
@@ -10,8 +10,8 @@
         "product":"Example Project",
         "version":"1.1",
         "type":"Feature",
-        "title":"Example title lorem ipsum",
-        "media":""
+        "title":"Another lorem ipsum",
+        "media":"Hallo Welt!"
     },
     {
         "product":"Example Project",
@@ -153,4 +153,4 @@
         "title":"Example title lorem ipsum",
         "media":""
     }
-]
+];
