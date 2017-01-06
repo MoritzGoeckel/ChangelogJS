@@ -4,12 +4,6 @@ $(document).ready(function() {
     //Set the data for the specified product
     setProduct(exampleProductName, exampleData);
 
-    //Click on a title -> reveal the media box
-    $( ".title_link" ).click(function() {
-        //Open media box
-        $(".media_" + $( this ).attr("linkid")).toggleClass("hidden");
-    });
-
     //Search button pressed
     $("#search_input").keyup(function(){
         //Get the query from the textbox
@@ -121,6 +115,12 @@ function setProduct(productName, data)
     {
         //Output the result
         $(".content").html(output);
+
+        //Click on a title -> reveal the media box
+        $( ".title_link" ).click(function() {
+            //Open media box
+            $(".media_" + $( this ).attr("linkid")).toggleClass("hidden");
+        });
     }
     else
     {
