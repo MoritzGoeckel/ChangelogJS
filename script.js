@@ -1,5 +1,8 @@
 $(document).ready(function() {
     var exampleProductName = "Example Project";
+    //exampleData comes from the file "example-data.js"
+
+    // -> Product name and the data should come from a server. In this case it is just static example data.
 
     //Set the data for the specified product
     setProduct(exampleProductName, exampleData);
@@ -62,7 +65,7 @@ function transformData(productName, data)
 
             //Add the data after the preceeding structure is set
             transformedData[data[i].version][data[i].type].push(
-                {"title":data[i].title, "media":data[i].media}
+                {"title":"- " + data[i].title, "media":data[i].media}
             );
         }
     }
@@ -120,10 +123,12 @@ function setProduct(productName, data)
         $( ".title_link" ).click(function() {
             //Open media box
             $(".media_" + $( this ).attr("linkid")).toggleClass("hidden");
+            return false;
         });
     }
     else
     {
+        //No output
         $(".content").html("This search leads to no results");
     }
 }
