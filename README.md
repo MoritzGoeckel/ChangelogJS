@@ -1,7 +1,5 @@
 #ChangelogJS
-A simple changelog frontend for a code competition.
-
-It supports the following data structure:
+A simple changelog frontend for a code competition. It supports the following data structure:
 ```javascript
  {
         "product":"", //The product name
