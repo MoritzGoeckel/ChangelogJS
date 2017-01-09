@@ -17,7 +17,7 @@ var exampleData = [
         "version":"1.0.4",
         "type":"Bugfix",
         "title":"Ein Fehler im Kreatur-Spawncode behoben",
-        "media":'<object data="http://www.pdf995.com/samples/pdf.pdf" type="application/pdf" style="width:100%;height:300px"><a href="object.pdf">PDF laden</a></object>'
+        "media":'<object data="test.pdf" type="application/pdf" style="width:100%;height:300px"><a href="test.pdf">PDF laden</a></object>'
     },
     {
         "product":"Example Project",
@@ -44,7 +44,7 @@ var exampleData = [
         "version":"1.0.4",
         "type":"Cleanup",
         "title":"Schneeablagerungen",
-        "media":'<object data="http://www.pdf995.com/samples/pdf.pdf" type="application/pdf" style="width:100%;height:300px"><a href="object.pdf">PDF laden</a></object>'
+        "media":'<object data="test.pdf" type="application/pdf" style="width:100%;height:300px"><a href="test.pdf">PDF laden</a></object>'
     },{
         "product":"Example Project",
         "version":"1.0.4",
@@ -105,7 +105,7 @@ var exampleData = [
         "version":"1.0.2.1",
         "type":"Feature",
         "title":"Auf Redstone Staub zu laufen zerstört diesen nicht mehr",
-        "media":'<object data="http://www.pdf995.com/samples/pdf.pdf" type="application/pdf" style="width:100%;height:300px"><a href="object.pdf">PDF laden</a></object>'
+        "media":'<object data="test.pdf" type="application/pdf" style="width:100%;height:300px"><a href="test.pdf">PDF laden</a></object>'
     },
     {
         "product":"Example Project",
@@ -133,7 +133,7 @@ var exampleData = [
         "version":"1.0.1",
         "type":"Bugfix",
         "title":"Schilder bleiben auch, wenn sie bereits entfernt sind (durch Neuladen des Speicherstandes kann dies behoben werden)",
-        "media":'<object data="http://www.pdf995.com/samples/pdf.pdf" type="application/pdf" style="width:100%;height:300px"><a href="object.pdf">PDF laden</a></object>'
+        "media":'<object data="test.pdf" type="application/pdf" style="width:100%;height:300px"><a href="test.pdf">PDF laden</a></object>'
     },
     {
         "product":"Example Project",
@@ -182,7 +182,7 @@ var exampleData = [
         "version":"1.0.1",
         "type":"Feature",
         "title":"KI verbessert",
-        "media":'<object data="http://www.pdf995.com/samples/pdf.pdf" type="application/pdf" style="width:100%;height:300px"><a href="object.pdf">PDF laden</a></object>'
+        "media":'<object data="test.pdf" type="application/pdf" style="width:100%;height:300px"><a href="test.pdf">PDF laden</a></object>'
     },
     {
         "product":"Example Project",
@@ -217,7 +217,7 @@ var exampleData = [
         "version":"1.0.0",
         "type":"Feature",
         "title":"Treppen hinzugefügt",
-        "media":'<object data="http://www.pdf995.com/samples/pdf.pdf" type="application/pdf" style="width:100%;height:300px"><a href="object.pdf">PDF laden</a></object>'
+        "media":'<object data="test.pdf" type="application/pdf" style="width:100%;height:300px"><a href="test.pdf">PDF laden</a></object>'
     },
     {
         "product":"Example Project",
