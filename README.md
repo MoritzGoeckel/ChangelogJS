@@ -10,4 +10,4 @@ A simple changelog frontend for a code competition. It supports the following da
  }
 ```
 
-It generates a fancy changlog page with the given changes. There is no backend yet, only example data.
+It generates a fancy changlog page with the given changes. There is no backend yet, only example data. I use JQuery and Bootstrap, it is fully responsive. 
