@@ -1,6 +1,6 @@
 #ChangelogJS
 
-http://moritzgoeckel.com/ChangelogJS/
+Demo http://moritzgoeckel.com/ChangelogJS/
 
 A simple changelog frontend for a code competition. It supports the following data structure:
 ```javascript
